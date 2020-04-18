@@ -1,10 +1,11 @@
 # Shield
 
 create a wood shield
+Wood shield upgrade to iron shield
 
 
 
-Sword types:
+Shield types:
 1. wood shield
 2. iron shield
 3. sliver shield
